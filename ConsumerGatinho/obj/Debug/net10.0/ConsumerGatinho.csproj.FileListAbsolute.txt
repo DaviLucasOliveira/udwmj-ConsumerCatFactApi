@@ -1,0 +1,14 @@
+c:\Users\125111385598\Documents\ConsumerGatinho\bin\Debug\net10.0\ConsumerGatinho.exe
+C:\Users\125111385598\Documents\ConsumerGatinho\bin\Debug\net10.0\ConsumerGatinho.deps.json
+C:\Users\125111385598\Documents\ConsumerGatinho\bin\Debug\net10.0\ConsumerGatinho.runtimeconfig.json
+c:\Users\125111385598\Documents\ConsumerGatinho\bin\Debug\net10.0\ConsumerGatinho.dll
+c:\Users\125111385598\Documents\ConsumerGatinho\bin\Debug\net10.0\ConsumerGatinho.pdb
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.AssemblyInfoInputs.cache
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.AssemblyInfo.cs
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.csproj.CoreCompileInputs.cache
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.dll
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\refint\ConsumerGatinho.dll
+c:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.pdb
+C:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ConsumerGatinho.genruntimeconfig.cache
+C:\Users\125111385598\Documents\ConsumerGatinho\obj\Debug\net10.0\ref\ConsumerGatinho.dll
